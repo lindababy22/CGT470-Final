@@ -9,3 +9,4 @@ For final [paper](https://docs.google.com/document/d/1glUiuuX4ok9QRnM3CL8wECOl8c
  * Word2Vec demo:       [Website](http://bionlp-www.utu.fi/wv_demo/)
  * WordNet:             [demo](http://wordnetweb.princeton.edu/perl/webwn)  [about](https://wordnet.princeton.edu/)
  * GloVe:               [Website](https://nlp.stanford.edu/projects/glove/)
+ * GloVe paper:         [pdf](https://nlp.stanford.edu/pubs/glove.pdf)
