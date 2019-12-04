@@ -1,4 +1,4 @@
-FILENAME = "./data/glove.840B.300d.txt"
+FILENAME = "C:/Users/sdzar/Documents/GitHub/CNIT581-NLT/data/glove.840B.300d.txt"
 DIMENSION = 300
 import numpy as np
 import torch
