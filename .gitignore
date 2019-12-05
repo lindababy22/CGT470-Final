@@ -2,3 +2,4 @@
 data/glove.840B.300d.txt
 data/stanford-corenlp-full-2018-02-27
 __pycache__/load_glove_matrix.cpython-37.pyc
+.ipynb_checkpoints/demo-checkpoint.ipynb
