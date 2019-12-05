@@ -1,0 +1,174 @@
+{
+    "name": "Words",
+    "children": [
+        {
+            "name": "NOUN",
+            "children": [
+                {
+                    "name": "night",
+                    "children": [
+                        {
+                            "name": "yesterday",
+                            "similarity": 0.6068112818261747
+                        },
+                        {
+                            "name": "saw",
+                            "similarity": 0.5092502041657017
+                        },
+                        {
+                            "name": "last",
+                            "similarity": 0.6298856667608155
+                        }
+                    ]
+                },
+                {
+                    "name": "cat",
+                    "children": [
+                        {
+                            "name": "dogs",
+                            "similarity": 0.6921647999302281
+                        },
+                        {
+                            "name": "puppies",
+                            "similarity": 0.5781784202694006
+                        }
+                    ]
+                },
+                {
+                    "name": "yesterday",
+                    "children": [
+                        {
+                            "name": "night",
+                            "similarity": 0.6068112818261747
+                        },
+                        {
+                            "name": "saw",
+                            "similarity": 0.5903825419692302
+                        },
+                        {
+                            "name": "last",
+                            "similarity": 0.7509270479250978
+                        }
+                    ]
+                },
+                {
+                    "name": "dogs",
+                    "children": [
+                        {
+                            "name": "cat",
+                            "similarity": 0.6921647999302281
+                        },
+                        {
+                            "name": "puppies",
+                            "similarity": 0.7978993201086826
+                        }
+                    ]
+                },
+                {
+                    "name": "puppies",
+                    "children": [
+                        {
+                            "name": "cat",
+                            "similarity": 0.5781784202694006
+                        },
+                        {
+                            "name": "dogs",
+                            "similarity": 0.7978993201086826
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "VERB",
+            "children": [
+                {
+                    "name": "saw",
+                    "children": [
+                        {
+                            "name": "night",
+                            "similarity": 0.5092502041657017
+                        },
+                        {
+                            "name": "yesterday",
+                            "similarity": 0.5903825419692302
+                        },
+                        {
+                            "name": "like",
+                            "similarity": 0.5795228911657166
+                        },
+                        {
+                            "name": "last",
+                            "similarity": 0.6219964413928809
+                        }
+                    ]
+                },
+                {
+                    "name": "love",
+                    "children": [
+                        {
+                            "name": "hate",
+                            "similarity": 0.6393098823113965
+                        },
+                        {
+                            "name": "like",
+                            "similarity": 0.65790401180881
+                        }
+                    ]
+                },
+                {
+                    "name": "hate",
+                    "children": [
+                        {
+                            "name": "love",
+                            "similarity": 0.6393098823113965
+                        },
+                        {
+                            "name": "like",
+                            "similarity": 0.6574651482527226
+                        }
+                    ]
+                },
+                {
+                    "name": "like",
+                    "children": [
+                        {
+                            "name": "saw",
+                            "similarity": 0.5795228911657166
+                        },
+                        {
+                            "name": "love",
+                            "similarity": 0.65790401180881
+                        },
+                        {
+                            "name": "hate",
+                            "similarity": 0.6574651482527226
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ADV_ADJ",
+            "children": [
+                {
+                    "name": "last",
+                    "children": [
+                        {
+                            "name": "night",
+                            "similarity": 0.6298856667608155
+                        },
+                        {
+                            "name": "yesterday",
+                            "similarity": 0.7509270479250978
+                        },
+                        {
+                            "name": "saw",
+                            "similarity": 0.6219964413928809
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
